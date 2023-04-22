@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b8138765.css",
+    "main.js": "/static/js/main.cb60ec5f.js",
+    "static/media/js.png": "/static/media/js.cae65a84867e9d6ad7bf.png",
+    "static/media/Mooncach.jpg": "/static/media/Mooncach.36da89896e0df13e3bd4.jpg",
+    "static/media/Sms.jpg": "/static/media/Sms.3bc4a7f75fc5d45e366c.jpg",
+    "static/media/Ipsum.jpg": "/static/media/Ipsum.957849a2faf0548d2197.jpg",
+    "static/media/photo-logo.jpg": "/static/media/photo-logo.a129ac9675cddff55aad.jpg",
+    "static/media/Harbor.jpg": "/static/media/Harbor.887fdd745a435ca8c285.jpg",
+    "static/media/instagram.png": "/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/Css.jpg": "/static/media/Css.750028f453deadb637b4.jpg",
+    "static/media/react.png": "/static/media/react.ac9979693620f0a96231.png",
+    "static/media/telegram.png": "/static/media/telegram.e9722f26cc228e817986.png",
+    "static/media/figma.png": "/static/media/figma.72fbc535ebe253a5dbc4.png",
+    "static/media/ps.png": "/static/media/ps.047cad202c4a70579aa2.png",
+    "static/media/css.png": "/static/media/css.463e319bad8e0edf1ef7.png",
+    "static/media/html.png": "/static/media/html.ff3cf75e3b7cbb4ea77c.png",
+    "static/media/gmail.png": "/static/media/gmail.23d2a9b0f4cc2cae2ed1.png",
+    "index.html": "/index.html",
+    "main.b8138765.css.map": "/static/css/main.b8138765.css.map",
+    "main.cb60ec5f.js.map": "/static/js/main.cb60ec5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8138765.css",
+    "static/js/main.cb60ec5f.js"
+  ]
+}
