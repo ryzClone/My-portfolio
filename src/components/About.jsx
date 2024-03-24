@@ -1,8 +1,10 @@
 import { About, AboutBody, AboutImg, AboutText, AboutTextText, AboutTextTitle } from "./styled/about-styled"
 import Logo from '../icon/photo-logo.jpg'
+import { useEffect } from "react"
 
 
 export default function AboutSend(){
+
     return(
     <About>
       <AboutBody>

@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 const About=styled.div`
 width: 100%;
-height: 100%;
+height: 90vh;
 background-color: #fff;
 display: flex;
 align-items: center;
@@ -24,8 +24,8 @@ const AboutImg=styled.div`
 width: 100%;
 height: 100%;
 @media (max-width:921px){
- width: 200px;
-height: 200px;
+  width: 200px;
+  height: 200px;
 }
 `;
 
