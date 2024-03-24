@@ -128,7 +128,7 @@ const ModalBody = styled.div`
     position: relative;
 
     @media(max-width:921px){
-        width: 70%;
+        width: calc(40% + (90% + 40%) * ((100vw - 555px) / (1920px - 555px)));
     }
 `;
 
